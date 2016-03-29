@@ -1,0 +1,33 @@
+torus
+0 0 40 100
+torus
+0 100 35 90
+torus
+0 200 30 80
+torus
+0 300 25 70
+sphere
+0 400 60
+torus
+0 800 40 100
+torus
+0 700 35 90
+torus
+0 600 30 80
+torus
+0 500 25 70
+box
+-200 400 0 50 50 50
+box
+200 400 0 50 50 50
+ident
+scale
+1 .5 1
+xrotate
+15
+zrotate
+45
+translate
+380 120 0
+apply
+display
